@@ -1,4 +1,6 @@
 - 👋 Hey there! I’m @bravetux
+- 👨‍💻 Embedded Engineer by profession — love building things that run close to the metal
+- 🔧 Passionate about designing circuits with microprocessors & microcontrollers
 - 🧠 Expert in Automation across Linux, Solaris, and Windows — because real engineers script it, not click it
 - 🖥️ Pro at Selenium Automation and Linux system-level programming
 - ⚙️ Build, break, and rebuild Linux-based applications and device drivers
