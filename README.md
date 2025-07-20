@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @bravetux
-- 👀 I’m interested in coding and learning new stuff
-- 🌱 I’m currently learning java/selenium automation
-- 💞️ I’m looking to collaborate on linux based applications and drivers
-- 📫 How to reach me mail me @ vigneshkumarb@bravetux.com
+👋 Hey there! I’m @bravetux
+🧠 Expert in Automation across Linux, Solaris, and Windows — because real engineers script it, not click it
+🖥️ Pro at Selenium Automation and Linux system-level programming
+⚙️ Build, break, and rebuild Linux-based applications and device drivers
+🤖 Currently exploring the world of Generative AI and Agentic AI — bridging automation with intelligence
+🧰 Daily driver tools: Java • Selenium • Python • Shell Scripting • Git • Systemd • cron • LLMs
+💬 Let’s collaborate — open-source, automation, AI, or anything that runs on a terminal
+📫 Reach me at: vigneshkumarb@bravetux.com
 
 <!---
 bravetux/bravetux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
