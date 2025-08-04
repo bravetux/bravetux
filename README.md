@@ -7,7 +7,7 @@
 - 🤖 Currently exploring the world of Generative AI and Agentic AI — bridging automation with intelligence
 - 🧰 Daily driver tools: Java • Selenium • Python • Shell Scripting • Git • Systemd • cron • LLMs
 - 💬 Let’s collaborate — open-source, automation, AI, or anything that runs on a terminal
-- 📫 Reach me at: vigneshkumarb@bravetux.com
+- 📫 Reach me at: ic19939@gmail.com
 
 <!---
 bravetux/bravetux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
